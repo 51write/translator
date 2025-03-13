@@ -14,6 +14,7 @@ pdf_file_path =""
 file_format = ""
 page=1
 model = None
+import yaml
 
 def get_sub_dir(current_dir:str, sub_dir):
     dir = os.path.join(current_dir,sub_dir)
@@ -24,13 +25,13 @@ def get_sub_dir(current_dir:str, sub_dir):
 def getModel()-> Model:
     current_dir = os.getcwd()
     config_path = os.path.join(current_dir,'config.yaml')
-    
+    config = None
     if os.path.exists(config_path):
         config_loader = ConfigLoader(config_path)
         config = config_loader.load_config()
 
     #默认是spark模型
-    LOG.info(f"os.getenv('model_type')={os.getenv('model_type')}")
+    print(f"os.getenv('model_type')={os.getenv('model_type')}")
     model_type = os.getenv('model_type') if os.getenv('model_type') else 'SparkModel'
     model_name = os.getenv('openpai_model') if os.getenv('openpai_model') else config['SparkModel']['model']
     api_key = os.getenv('openapi_api_key') if os.getenv('openapi_api_key') else config['SparkModel']['api_key']
