@@ -1,0 +1,791 @@
+2025-03-12 14:27:00.419 | INFO     | __main__:<module>:18 - 调试信息==========
+2025-03-12 14:28:39.438 | INFO     | __main__:<module>:18 - 调试信息==========
+2025-03-12 14:28:39.438 | INFO     | __main__:<module>:24 - b7c9a832-61ed-480d-818e-11464efbedd8
+2025-03-12 14:29:36.054 | INFO     | __main__:<module>:18 - 调试信息==========
+2025-03-12 14:29:36.058 | INFO     | __main__:<module>:24 - b7c9a832-61ed-480d-818e-11464efbedd8
+2025-03-12 14:29:36.128 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 14:29:36.139 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 14:29:36.165 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 14:41:27.051 | INFO     | __main__:<module>:24 - bce-v3/ALTAK-QS8XlDs7j5BalVUQNCBYR/8bc31d1640192fcc019065e091ef79dc8f174007
+2025-03-12 14:41:27.108 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 14:41:27.119 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 14:41:27.134 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 14:45:21.729 | INFO     | __main__:<module>:24 - bce-v3/ALTAK-1wwnw7YlselEvT0TlnVff/09a9fd68685cdad7a3bc9b979e2ac040ff533b37
+2025-03-12 14:45:21.802 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 14:45:21.805 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 14:45:21.828 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 14:51:13.771 | INFO     | __main__:<module>:24 - bce-v3/ALTAK-1wwnw7YlselEvT0TlnVff/09a9fd68685cdad7a3bc9b979e2ac040ff533b37
+2025-03-12 14:51:13.832 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 14:51:13.840 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 14:51:13.862 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 15:38:23.092 | INFO     | __main__:<module>:24 - bce-v3/ALTAK-1wwnw7YlselEvT0TlnVff/09a9fd68685cdad7a3bc9b979e2ac040ff533b37
+2025-03-12 15:38:23.156 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 15:38:23.160 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 15:38:23.181 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:27:01.220 | ERROR    | __main__:<module>:31 - 初始化模型失败
+2025-03-12 21:27:57.326 | ERROR    | __main__:<module>:31 - 初始化模型失败
+2025-03-12 21:28:53.322 | ERROR    | __main__:<module>:31 - 初始化模型失败.modelname=spark
+2025-03-12 21:32:51.957 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:32:51.962 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:32:51.986 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:33:25.976 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:33:25.981 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:33:26.006 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:33:45.836 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:33:45.841 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:33:45.867 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:37:01.313 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:37:01.319 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:37:01.345 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:38:45.369 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:38:45.378 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:38:45.400 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:38:46.055 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:38:46.059 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:38:46.625 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:38:46.627 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 21:38:46.628 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 21:38:46.632 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 21:41:35.684 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:41:35.692 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:41:35.715 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:41:35.716 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api.xf-yun.com/v1.1/chatmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文：Test Data\nThis dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.\nThese samples include a markdown table and an English text passage, which can be used to test an\nEnglish-to-Chinese translation software supporting both text and table formats.\nText testing\nThe quick brown fox jumps over the lazy dog. This pangram contains every letter of the English\nalphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related\ntools. In addition to English, there are pangrams in many other languages. Some pangrams are more\ndifficult to construct due to the unique characteristics of the language.\nTable Testing'}]
+2025-03-12 21:41:36.413 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:41:36.416 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:41:36.417 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api.xf-yun.com/v1.1/chatmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文，以空格和换行符表示表格：\n[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]'}]
+2025-03-12 21:41:36.962 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:41:36.963 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 21:41:36.963 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 21:41:36.965 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 21:52:44.778 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:52:44.784 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:52:44.809 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:52:44.810 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api-open.xf-yun.com/v1.1/chatmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文：Test Data\nThis dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.\nThese samples include a markdown table and an English text passage, which can be used to test an\nEnglish-to-Chinese translation software supporting both text and table formats.\nText testing\nThe quick brown fox jumps over the lazy dog. This pangram contains every letter of the English\nalphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related\ntools. In addition to English, there are pangrams in many other languages. Some pangrams are more\ndifficult to construct due to the unique characteristics of the language.\nTable Testing'}]
+2025-03-12 21:52:45.235 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:52:45.239 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:52:45.239 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api-open.xf-yun.com/v1.1/chatmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文，以空格和换行符表示表格：\n[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]'}]
+2025-03-12 21:52:45.555 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:52:45.556 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 21:52:45.556 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 21:52:45.558 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 21:53:20.969 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:53:20.974 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:53:20.995 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:53:20.996 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=https://spark-api-open.xf-yun.com/v1/chat/completionsmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文：Test Data\nThis dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.\nThese samples include a markdown table and an English text passage, which can be used to test an\nEnglish-to-Chinese translation software supporting both text and table formats.\nText testing\nThe quick brown fox jumps over the lazy dog. This pangram contains every letter of the English\nalphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related\ntools. In addition to English, there are pangrams in many other languages. Some pangrams are more\ndifficult to construct due to the unique characteristics of the language.\nTable Testing'}]
+2025-03-12 21:53:44.379 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:53:44.387 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:53:44.408 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 21:53:44.409 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api-open.xf-yun.com/v1/chat/completionsmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文：Test Data\nThis dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.\nThese samples include a markdown table and an English text passage, which can be used to test an\nEnglish-to-Chinese translation software supporting both text and table formats.\nText testing\nThe quick brown fox jumps over the lazy dog. This pangram contains every letter of the English\nalphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related\ntools. In addition to English, there are pangrams in many other languages. Some pangrams are more\ndifficult to construct due to the unique characteristics of the language.\nTable Testing'}]
+2025-03-12 21:53:44.687 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:53:44.690 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 21:53:44.691 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api-open.xf-yun.com/v1/chat/completionsmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文，以空格和换行符表示表格：\n[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]'}]
+2025-03-12 21:53:44.948 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 21:53:44.948 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 21:53:44.948 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 21:53:44.950 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:05:42.383 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:05:42.388 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:05:42.413 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:05:42.414 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api-open.xf-yun.com/v1/chat/completionsmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文：Test Data\nThis dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.\nThese samples include a markdown table and an English text passage, which can be used to test an\nEnglish-to-Chinese translation software supporting both text and table formats.\nText testing\nThe quick brown fox jumps over the lazy dog. This pangram contains every letter of the English\nalphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related\ntools. In addition to English, there are pangrams in many other languages. Some pangrams are more\ndifficult to construct due to the unique characteristics of the language.\nTable Testing'}]
+2025-03-12 22:05:42.711 | INFO     | ai_model.spark_model:make_request:32 - SparkApi.answer
+2025-03-12 22:05:42.711 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:05:42.715 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:05:42.716 | INFO     | ai_model.spark_model:make_request:28 - appid=5f7d8942api_key=dfbd522dd6dc49fe7425af3a78af3825api_secret=YWEwNGJjYTYwNmQ0OGExNTIxMmJiMzY0host=wss://spark-api-open.xf-yun.com/v1/chat/completionsmodel=sparkquestion=[{'role': 'user', 'content': '翻译为中文，以空格和换行符表示表格：\n[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]'}]
+2025-03-12 22:05:42.974 | INFO     | ai_model.spark_model:make_request:32 - SparkApi.answer
+2025-03-12 22:05:42.975 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:05:42.975 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 22:05:42.975 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 22:05:42.977 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:05:42.978 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:05:42.979 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:05:42.982 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:06:39.398 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:06:39.406 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:06:39.429 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:06:39.702 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:06:39.702 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:06:39.708 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:06:39.986 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:06:39.986 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:06:39.986 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 22:06:39.987 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 22:06:39.988 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:06:39.989 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:06:39.989 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:06:39.990 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:07:11.728 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:07:11.734 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:07:11.757 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:07:12.349 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:07:12.349 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:07:12.353 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:07:12.918 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:07:12.918 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:07:12.919 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 22:07:12.919 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 22:07:12.920 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:07:12.921 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:07:12.921 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:07:12.922 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:09:00.646 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:09:00.652 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:09:00.674 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:09:01.258 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:09:01.258 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:09:01.263 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:09:01.811 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:09:01.814 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:09:01.814 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 22:09:01.815 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 22:09:01.816 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:09:01.817 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:09:01.817 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:09:01.818 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:09:49.739 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:09:49.745 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:09:49.769 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:09:50.397 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:09:50.397 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:09:50.401 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:09:50.967 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:09:50.967 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:09:50.967 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 22:09:50.968 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 22:09:50.970 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:09:50.971 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:09:50.971 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:09:50.972 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:10:29.064 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:10:29.069 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:10:29.091 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:10:33.214 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer测试数据
+这个数据集包含ChatGPT，一个由OpenAI构建的人工智能语言模型提供的两个测试样本。
+这些样本包括一个Markdown表格和一段英文文本，可用于测试支持文本和表格格式的英文到中文翻译软件。
+文本测试
+The quick brown fox jumps over the lazy dog. 这句话是一个完整的句子，包含了英语字母表里的每一个字母。pangrams（全字母句）经常被用来测试字体、键盘和其他与文本相关工具。除了英语外，许多其他语言也有pangram。有些pangram因为语言的独特性而更难以构造。
+表格测试
+2025-03-12 22:10:33.215 | INFO     | translator.pdf_translator:translate_pdf:21 - 测试数据
+这个数据集包含ChatGPT，一个由OpenAI构建的人工智能语言模型提供的两个测试样本。
+这些样本包括一个Markdown表格和一段英文文本，可用于测试支持文本和表格格式的英文到中文翻译软件。
+文本测试
+The quick brown fox jumps over the lazy dog. 这句话是一个完整的句子，包含了英语字母表里的每一个字母。pangrams（全字母句）经常被用来测试字体、键盘和其他与文本相关工具。除了英语外，许多其他语言也有pangram。有些pangram因为语言的独特性而更难以构造。
+表格测试
+2025-03-12 22:10:33.218 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:10:36.345 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer| 水果 | 颜色 | 价格 (美元) |
+| --- | --- | --- |
+| 苹果 | Red | 1.20 |
+| 香蕉 | Yellow | 0.50 |
+| 橙子 | 橙色 | 0.80 |
+| 草莓 | Red | 2.50 |
+| 蓝莓 | Blue | 3.00 |
+| 猕猴桃 | Green | 1.00 |
+| 芒果 | Orange | 1.50 |
+| 葡萄 | Purple | 2.00 |
+2025-03-12 22:10:36.345 | INFO     | translator.pdf_translator:translate_pdf:21 - | 水果 | 颜色 | 价格 (美元) |
+| --- | --- | --- |
+| 苹果 | Red | 1.20 |
+| 香蕉 | Yellow | 0.50 |
+| 橙子 | 橙色 | 0.80 |
+| 草莓 | Red | 2.50 |
+| 蓝莓 | Blue | 3.00 |
+| 猕猴桃 | Green | 1.00 |
+| 芒果 | Orange | 1.50 |
+| 葡萄 | Purple | 2.00 |
+2025-03-12 22:10:36.346 | DEBUG    | file.content:set_translation:49 - | 水果 | 颜色 | 价格 (美元) |
+| --- | --- | --- |
+| 苹果 | Red | 1.20 |
+| 香蕉 | Yellow | 0.50 |
+| 橙子 | 橙色 | 0.80 |
+| 草莓 | Red | 2.50 |
+| 蓝莓 | Blue | 3.00 |
+| 猕猴桃 | Green | 1.00 |
+| 芒果 | Orange | 1.50 |
+| 葡萄 | Purple | 2.00 |
+2025-03-12 22:10:36.346 | DEBUG    | file.content:set_translation:52 - [['|', '水果', '|', '颜色', '|', '价格', '(美元)', '|'], ['|', '---', '|', '---', '|', '---', '|'], ['|', '苹果', '|', 'Red', '|', '1.20', '|'], ['|', '香蕉', '|', 'Yellow', '|', '0.50', '|'], ['|', '橙子', '|', '橙色', '|', '0.80', '|'], ['|', '草莓', '|', 'Red', '|', '2.50', '|'], ['|', '蓝莓', '|', 'Blue', '|', '3.00', '|'], ['|', '猕猴桃', '|', 'Green', '|', '1.00', '|'], ['|', '芒果', '|', 'Orange', '|', '1.50', '|'], ['|', '葡萄', '|', 'Purple', '|', '2.00', '|']]
+2025-03-12 22:10:36.351 | ERROR    | file.content:set_translation:59 - An error occurred during table translation: 8 columns passed, passed data had 7 columns
+2025-03-12 22:10:36.352 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:10:36.352 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:10:36.354 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:11:12.547 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:11:12.552 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:11:12.574 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:11:13.156 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:11:13.156 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:11:13.160 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:11:13.705 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:11:13.705 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:11:13.705 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 22:11:13.706 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 22:11:13.707 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:11:13.708 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:11:13.708 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:11:13.709 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:11:20.917 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:11:20.922 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:11:20.944 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:11:21.535 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:11:21.535 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:11:21.538 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:11:22.100 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer
+2025-03-12 22:11:22.101 | INFO     | translator.pdf_translator:translate_pdf:21 - 
+2025-03-12 22:11:22.101 | DEBUG    | file.content:set_translation:49 - 
+2025-03-12 22:11:22.102 | DEBUG    | file.content:set_translation:52 - [[]]
+2025-03-12 22:11:22.104 | DEBUG    | file.content:set_translation:55 - Empty DataFrame
+Columns: []
+Index: []
+2025-03-12 22:11:22.105 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:11:22.105 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:11:22.106 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
+2025-03-12 22:11:27.181 | DEBUG    | translator.pdf_parser:parse_pdf:46 - [raw_text]
+ Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:11:27.188 | DEBUG    | translator.pdf_parser:parse_pdf:54 - [table]
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:11:27.212 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文：Test Data
+This dataset contains two test samples provided by ChatGPT, an AI language model by OpenAI.
+These samples include a markdown table and an English text passage, which can be used to test an
+English-to-Chinese translation software supporting both text and table formats.
+Text testing
+The quick brown fox jumps over the lazy dog. This pangram contains every letter of the English
+alphabet at least once. Pangrams are often used to test fonts, keyboards, and other text-related
+tools. In addition to English, there are pangrams in many other languages. Some pangrams are more
+difficult to construct due to the unique characteristics of the language.
+Table Testing
+2025-03-12 22:11:30.622 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer测试数据
+这个数据集包含了ChatGPT（OpenAI的人工智能语言模型）提供的两个测试样本。
+这些样本包括一个Markdown表格和一个英文文本段落，可用于测试支持文本和表格格式的英文到中文翻译软件。
+文本测试
+这只棕色的快速狐狸跳过了那只懒惰的狗。这通篇是一句完整的英语句子，包含了至少每个字母。通篇常用于测试字体、键盘和其他与文本相关的工具。除了英语外，还有许多其他语言的通篇。由于某些语言的独特性，一些通篇的构造更为困难。
+表格测试
+2025-03-12 22:11:30.623 | INFO     | translator.pdf_translator:translate_pdf:21 - 测试数据
+这个数据集包含了ChatGPT（OpenAI的人工智能语言模型）提供的两个测试样本。
+这些样本包括一个Markdown表格和一个英文文本段落，可用于测试支持文本和表格格式的英文到中文翻译软件。
+文本测试
+这只棕色的快速狐狸跳过了那只懒惰的狗。这通篇是一句完整的英语句子，包含了至少每个字母。通篇常用于测试字体、键盘和其他与文本相关的工具。除了英语外，还有许多其他语言的通篇。由于某些语言的独特性，一些通篇的构造更为困难。
+表格测试
+2025-03-12 22:11:30.629 | DEBUG    | translator.pdf_translator:translate_pdf:19 - 翻译为中文，以空格和换行符表示表格：
+[Fruit, Color, Price (USD)] [Apple, Red, 1.20] [Banana, Yellow, 0.50] [Orange, Orange, 0.80] [Strawberry, Red, 2.50] [Blueberry, Blue, 3.00] [Kiwi, Green, 1.00] [Mango, Orange, 1.50] [Grape, Purple, 2.00]
+2025-03-12 22:11:34.550 | INFO     | ai_model.spark_model:make_request:31 - SparkApi.answer| 水果 | 颜色 | 价格（USD） |
+|-----|------|---------|
+| 苹果 | 红色 | 1.20 |
+| 香蕉 | 黄色 | 0.50 |
+| 橙子 | 橙色 | 0.80 |
+| 草莓 | 红色 | 2.50 |
+| 蓝莓 | 蓝色 | 3.00 |
+| 猕猴桃 | 绿色 | 1.00 |
+| 芒果 | 橙色 | 1.50 |
+| 葡萄 | 紫色 | 2.00 |
+2025-03-12 22:11:34.551 | INFO     | translator.pdf_translator:translate_pdf:21 - | 水果 | 颜色 | 价格（USD） |
+|-----|------|---------|
+| 苹果 | 红色 | 1.20 |
+| 香蕉 | 黄色 | 0.50 |
+| 橙子 | 橙色 | 0.80 |
+| 草莓 | 红色 | 2.50 |
+| 蓝莓 | 蓝色 | 3.00 |
+| 猕猴桃 | 绿色 | 1.00 |
+| 芒果 | 橙色 | 1.50 |
+| 葡萄 | 紫色 | 2.00 |
+2025-03-12 22:11:34.552 | DEBUG    | file.content:set_translation:49 - | 水果 | 颜色 | 价格（USD） |
+|-----|------|---------|
+| 苹果 | 红色 | 1.20 |
+| 香蕉 | 黄色 | 0.50 |
+| 橙子 | 橙色 | 0.80 |
+| 草莓 | 红色 | 2.50 |
+| 蓝莓 | 蓝色 | 3.00 |
+| 猕猴桃 | 绿色 | 1.00 |
+| 芒果 | 橙色 | 1.50 |
+| 葡萄 | 紫色 | 2.00 |
+2025-03-12 22:11:34.552 | DEBUG    | file.content:set_translation:52 - [['|', '水果', '|', '颜色', '|', '价格（USD）', '|'], ['|-----|------|---------|'], ['|', '苹果', '|', '红色', '|', '1.20', '|'], ['|', '香蕉', '|', '黄色', '|', '0.50', '|'], ['|', '橙子', '|', '橙色', '|', '0.80', '|'], ['|', '草莓', '|', '红色', '|', '2.50', '|'], ['|', '蓝莓', '|', '蓝色', '|', '3.00', '|'], ['|', '猕猴桃', '|', '绿色', '|', '1.00', '|'], ['|', '芒果', '|', '橙色', '|', '1.50', '|'], ['|', '葡萄', '|', '紫色', '|', '2.00', '|']]
+2025-03-12 22:11:34.554 | DEBUG    | file.content:set_translation:55 -                           |    水果     |    颜色     | 价格（USD）     |
+0  |-----|------|---------|  None  None  None  None    None  None
+1                         |    苹果     |    红色     |    1.20     |
+2                         |    香蕉     |    黄色     |    0.50     |
+3                         |    橙子     |    橙色     |    0.80     |
+4                         |    草莓     |    红色     |    2.50     |
+5                         |    蓝莓     |    蓝色     |    3.00     |
+6                         |   猕猴桃     |    绿色     |    1.00     |
+7                         |    芒果     |    橙色     |    1.50     |
+8                         |    葡萄     |    紫色     |    2.00     |
+2025-03-12 22:11:34.564 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: tests/test.pdf
+2025-03-12 22:11:34.564 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: tests/test_translated.md
+2025-03-12 22:11:34.565 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: tests/test_translated.md
