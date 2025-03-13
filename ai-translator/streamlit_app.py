@@ -24,9 +24,10 @@ def get_sub_dir(current_dir:str, sub_dir):
 def getModel()-> Model:
     current_dir = os.getcwd()
     config_path = os.path.join(current_dir,'config.yaml')
- 
-    config_loader = ConfigLoader(config_path)
-    config = config_loader.load_config()
+    
+    if os.path.exists(config_path):
+        config_loader = ConfigLoader(config_path)
+        config = config_loader.load_config()
 
     #默认是spark模型
     LOG.info(f"os.getenv('model_type')={os.getenv('model_type')}")
