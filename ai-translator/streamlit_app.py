@@ -23,20 +23,24 @@ def get_sub_dir(current_dir:str, sub_dir):
     return dir
 
 def getModel()-> Model:
-    current_dir = os.getcwd()
-    config_path = os.path.join(current_dir,'config.yaml')
-    config = None
-    if os.path.exists(config_path):
-        config_loader = ConfigLoader(config_path)
-        config = config_loader.load_config()
+    #current_dir = os.getcwd()
+    #config_path = os.path.join(current_dir,'config.yaml')
+    #config = None
+    #if os.path.exists(config_path):
+    #    config_loader = ConfigLoader(config_path)
+    #    config = config_loader.load_config()
 
+    
     #默认是spark模型
-    print(f"os.getenv('model_type')={os.getenv('model_type')}")
-    model_type = os.getenv('model_type') if os.getenv('model_type') else 'SparkModel'
-    model_name = os.getenv('openpai_model') if os.getenv('openpai_model') else config['SparkModel']['model']
-    api_key = os.getenv('openapi_api_key') if os.getenv('openapi_api_key') else config['SparkModel']['api_key']
-    secret_key = os.getenv('openapi_secret_key') if os.getenv('openapi_secret_key') else config['SparkModel']['secret_key']
-    app_id = os.getenv('openapi_app_id') if os.getenv('openapi_app_id') else config['SparkModel']['app_id']
+    model_type = st.secrets.SparkModel.model_type
+    model_name = st.secrets.SparkModel.openpai_model
+    api_key = st.secrets.SparkModel.openapi_api_key
+    secret_key = st.secrets.SparkModel.openapi_secret_key
+    app_id = st.secrets.SparkModel.openapi_app_id
+    
+    if not model_type or not model_name or not api_key or not secret_key or not app_id:
+        print("读取配置失败")
+        return
     
     model = None
     if model_type and model_type=='SparkModel':

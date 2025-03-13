@@ -1370,3 +1370,8 @@ Index: []
 2025-03-13 22:04:10.992 | INFO     | translator.writer:_save_translated_book_markdown:83 - pdf_file_path: D:\AIAgent\translator\ai-translator\tests\test.pdf
 2025-03-13 22:04:10.992 | INFO     | translator.writer:_save_translated_book_markdown:84 - 开始翻译: D:\AIAgent\translator\ai-translator\out\翻译结果.markdown
 2025-03-13 22:04:10.992 | INFO     | translator.writer:_save_translated_book_markdown:108 - 翻译完成: D:\AIAgent\translator\ai-translator\out\翻译结果.markdown
+2025-03-13 23:15:48.064 | ERROR    | __main__:<module>:102 - None
+2025-03-13 23:16:48.592 | ERROR    | __main__:<module>:102 - None
+2025-03-13 23:18:31.097 | ERROR    | __main__:<module>:102 - None
+2025-03-13 23:18:58.223 | ERROR    | __main__:<module>:102 - None
+2025-03-13 23:23:42.871 | ERROR    | __main__:<module>:101 - None
