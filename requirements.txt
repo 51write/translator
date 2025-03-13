@@ -6,4 +6,5 @@ pillow
 reportlab
 pandas
 loguru
-websocket
+websocket-client==1.8.0
+websockets==11.0.3
