@@ -1,2 +1,3 @@
 ai-translator/config.yaml
 ai-translator/.streamlit/secrets.toml
+ai-translator/logs/app.log
