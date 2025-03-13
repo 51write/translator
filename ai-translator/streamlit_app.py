@@ -29,6 +29,7 @@ def getModel()-> Model:
     config = config_loader.load_config()
 
     #默认是spark模型
+    LOG.info(f"os.getenv('model_type')={os.getenv('model_type')}")
     model_type = os.getenv('model_type') if os.getenv('model_type') else 'SparkModel'
     model_name = os.getenv('openpai_model') if os.getenv('openpai_model') else config['SparkModel']['model']
     api_key = os.getenv('openapi_api_key') if os.getenv('openapi_api_key') else config['SparkModel']['api_key']
