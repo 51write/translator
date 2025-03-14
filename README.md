@@ -59,13 +59,21 @@ python ai_translator/main.py
 python main.py --model_type SparkModel --openapi_api_key your key --openapi_secret_key  your key --openapi_app_id  your id --file_format markdown --book tests/test.pdf --openpai_model lite
 ```
 
-这是使用 千帆模型的例子：
+建议使用streamlit启动：
 
-```bash
-# 将您的 千帆模型 URL 设置为环境变量
-export QIANFAN_MODEL_URL="http://xxx:xx"
-python ai_translator/main.py --model_type  QianFanModel --glm_model_url $QIANFAN_MODEL_URL --book tests/test.pdf 
+
+# 通过streamlit启动
+前提，在这个目录下面我们要创建.streamlit目录，并且把密码维护到secrets.toml项目下面
+![alt text](image-4.png)
+```yaml
+[SparkModel]
+model_type="SparkModel"
+openpai_model="lite"
+openapi_api_key= "your key"
+openapi_secret_key= "your secret key"
+openapi_app_id= "your id"
 ```
 
-#### 获取secret
-https://cloud.baidu.com/doc/WENXINWORKSHOP/s/Um2wxbaps#
+```bash
+ streamlit run .\streamlit_app.py
+```
